@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# added by Fabio
 .DS_Store
 .idea/
 weekly_exercises/in5400_w2_exercise/resolution/
-weekly_exercises/.DS_Store
